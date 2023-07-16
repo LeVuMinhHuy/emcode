@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ['sofia-pro', 'sans-serif'],
-      display: ['cubano', 'sans-serif'],
+      display: ['Roboto Slab', 'sans-serif'],
       body: ['sofia-pro', 'sans-serif'],
       code: ['attribute-mono', 'sans-serif'],
     },
